@@ -1,5 +1,5 @@
 # Sentimental-Analysis-of-amazon-reviews
-
+<br/>
 ### Overview
 <div align="justify">
 Sentimental Analysis of Amazon Reviews is a project designed to analyze customer reviews on Amazon and determine their sentiment. By utilizing natural language processing (NLP) and machine learning techniques, this project aims to classify reviews as positive, negative, or neutral. This analysis can provide valuable insights into customer opinions, product performance, and overall satisfaction.
