@@ -1,5 +1,4 @@
 # Sentimental-Analysis-of-amazon-reviews
-<hr />
 
 ### Overview
 <div align="justify">
@@ -8,7 +7,7 @@ Sentimental Analysis of Amazon Reviews is a project designed to analyze customer
 
 ##
 
-Features
+#### Features
 <div align="justify"></div>
 Sentiment Classification: Classifies reviews into positive, negative, and neutral categories.
 Machine Learning Models: Utilizes advanced machine learning models like SVM, Random Forest, and Neural Networks for accurate sentiment analysis.
