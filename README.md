@@ -36,3 +36,10 @@ Sentimental Analysis of Amazon Reviews is a project designed to analyze customer
     </li>
   </ul>
 </div>
+
+##
+
+### Usage
+<div align="justify">
+Once the application is running, users can upload their Amazon review datasets in CSV format. The system will preprocess the text, analyze the sentiment, and display the results. Users can view sentiment distribution, detailed analysis, and visualizations to gain insights into customer opinions.
+</div>
