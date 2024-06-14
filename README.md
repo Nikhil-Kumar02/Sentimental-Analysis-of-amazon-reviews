@@ -1,5 +1,5 @@
 # Sentimental-Analysis-of-amazon-reviews
-<br/>
+<hr />
 
 ### Overview
 <div align="justify">
