@@ -19,27 +19,20 @@ Sentimental Analysis of Amazon Reviews is a project designed to analyze customer
       <span> Utilizes advanced machine learning models like SVM, Random Forest, and Neural Networks for accurate sentiment analysis. </span> 
     </li>
     <li> 
-      <b> </b> 
-      <span> </span> 
+      <b> Text Preprocessing: </b> 
+      <span> Includes robust text preprocessing steps such as tokenization, stemming, lemmatization, and removal of stopwords. </span> 
     </li>
     <li> 
-      <b> </b> 
-      <span> </span> 
+      <b> Data Visualization: </b> 
+      <span> Provides visualizations of sentiment distribution, word clouds, and trends over time. </span> 
     </li>
     <li> 
-      <b> </b> 
-      <span> </span> 
+      <b> Scalable Solution: </b> 
+      <span> Designed to handle large datasets, making it suitable for analyzing extensive review data. </span> 
     </li>
     <li> 
-      <b> </b> 
-      <span> </span> 
+      <b> User-Friendly Interface: </b> 
+      <span> Easy-to-use interface for uploading review datasets and viewing analysis results. </span> 
     </li>
   </ul>
-
-
-Text Preprocessing: Includes robust text preprocessing steps such as tokenization, stemming, lemmatization, and removal of stopwords.
-Data Visualization: Provides visualizations of sentiment distribution, word clouds, and trends over time.
-Scalable Solution: Designed to handle large datasets, making it suitable for analyzing extensive review data.
-User-Friendly Interface: Easy-to-use interface for uploading review datasets and viewing analysis results.
-Extensive Documentation: Comprehensive documentation to guide users through setup, configuration, and usage.
 </div>
